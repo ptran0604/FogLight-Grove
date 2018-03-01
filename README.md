@@ -94,7 +94,7 @@ Of course, this is just a simple example; for more interesting examples that dem
   - [wiki](http://wiki.seeed.cc/Grove-Line_Finder/)
   - [demo](https://github.com/oci-pronghorn/FogLight-Grove/blob/master/LineFinder/README.md)
 - MP3Player
-  - [wiki](http://wiki.seeed.cc/Grove-Serial_MP3_Player/)
+  - [wiki](http://wiki.seeed.cc/Grove-MP3_v2.0/)
   - demo - Coming Soon!
 - Moisture Sensor
   - [wiki](http://wiki.seeed.cc/Grove-Moisture_Sensor/)
